@@ -7,7 +7,7 @@ Make it your own!
 Deploy and Extend Your Portfolio
 
 ### Estimate of time needed to complete: 
-the whole weekend
+the whole weekend. 8/20/23 - 8/22/23
 
 ### Start time: 
 1600
